@@ -1,0 +1,2 @@
+[1116/132739.484:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 36692efafaf7444498f5e2f3182404bc
+[1116/132739.562:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: Ýþlem baþarýyla tamamlandý. (0x0)
