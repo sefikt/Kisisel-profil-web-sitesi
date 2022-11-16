@@ -7,3 +7,7 @@ Selamlar🖐. Bu projemde size kendi sitemin HTML , CSS ve JavaScript Kodların�
 <br/>
 [Siteyi Canlı Görüntülemek İçin Tıkla](https://sefiktoru.000webhostapp.com/)
 
+
+
+https://user-images.githubusercontent.com/88979070/202197035-117b04d4-73e1-4806-ad35-1265671ddf8b.mp4
+
